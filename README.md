@@ -8,7 +8,7 @@
 
 - 👯 And making connections on [Linkedin](https://www.linkedin.com/in/shaiksahil)
 
-- ⚡ Fun fact **I am Professional Competetive Gamer**
+- ⚡ Fun fact **: I am a Professional Competitive Pubg Player **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
