@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksahil99&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksahil99" /> </p>
 
-- 🌱 I’m currently learning **DSA,CP and Django etc**
+- 🌱 I’m currently learning **DSA,CP and Web Development etc**
 
 - 👯 And making connections on [Linkedin](https://www.linkedin.com/in/shaiksahil)
 
