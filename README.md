@@ -1,14 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A Software Developer who loves learning new technologies and enjoying solving challenging problems as well.</h3>
+<h3 align="center">A Cloud & DevOps Enthusiast who's obsessed with problem solving and deepdives into reasonings of Why When Where before troubleshooting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksahil99&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksahil99" /> </p>
 
-- 🌱 I’m currently learning **DSA,CP and Web Development etc**
+- 🌱 Experienced with creating CI/CD pipelines, version control workflows, cloud resource management, and automation processes using modern DevOps tools and practices
+
+🚀 Key Expertise:
+☁️ Cloud Platforms: Azure, AWS
+⚙️ CI/CD: Azure DevOps
+🐳 Containerization: Docker, Kubernetes
+🏗️ Automation & IaC: Terraform, Ansible
+📦 Version Control & SCM: Git, GitHub, Azure Repos
+📊 Monitoring & Logging: Prometheus, Grafana
+🔐 DevSecOps & Security: Basic Security Scanning, Secret Management
+💻 Scripting & Automation: Shell Scripting, Task Automation & Python
+🔄 Build & Deployment Tools: Maven, MSBuild, YAML Pipelines
+
+I am committed to continuous improvement, and I am always eager to learn and explore new technologies that drive innovation in DevOps space
 
 - 👯 And making connections on [Linkedin](https://www.linkedin.com/in/shaiksahil)
-
-- ⚡ Fun fact : I am a Professional Competitive Pubg Player **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
