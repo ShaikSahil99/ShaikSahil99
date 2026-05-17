@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A Cloud & DevOps Enthusiast who's deepdives into reasonings of Why When Where before troubleshooting.</h3>
+<h3 align="center">A Cloud & DevOps Enthusiast who deepdives into the reasoning of Why When Where before troubleshooting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksahil99&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksahil99" /> </p>
 
