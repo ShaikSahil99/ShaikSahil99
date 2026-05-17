@@ -25,6 +25,4 @@ I am committed to continuous improvement, and I am always eager to learn and exp
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaiksahil99&show_icons=true&locale=en" alt="shaiksahil99" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksahil99&" alt="shaiksahil99" /></p>
